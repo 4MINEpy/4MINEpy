@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm an IT student at ISET Rades, passionate about web development and problem-solving. <br><br>I enjoy building dynamic applications using Angular, React, and exploring backend development with PHP. <br><br>Currently, I'm sharpening my skills in Full-Stack Development while tackling challenges on LeetCode.<br><br>When I'm not coding, you'll find me at the gym, gaming, or experimenting with new tools to improve my workflow. 🚀<br><br>Let's build something amazing together!<br>
+👋 Hi there! I'm an IT student at ISET Rades, passionate about web development and problem-solving. <br><br>I enjoy building dynamic applications using Angular, React, and exploring backend development with PHP. <br><br>Currently, I'm sharpening my skills in Full-Stack Development while tackling challenges on LeetCode.<br><br>When I'm not coding, you'll find me at the gym, gaming, or experimenting with new tools to improve my workflow. 🚀<br><br>Let's build something amazing together!<br><br>
 ADD ME ON DISCORD : 1amin
 
 ## 🌐 Socials:
