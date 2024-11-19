@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm an IT student at ISET Rades, passionate about web development and problem-solving. <br><br>I enjoy building dynamic applications using Angular, React, and exploring backend development with PHP. <br><br>Currently, I'm sharpening my skills in Full-Stack Development while tackling challenges on LeetCode.<br><br>When I'm not coding, you'll find me at the gym, gaming, or experimenting with new tools to improve my workflow. 🚀<br><br>Let's build something amazing together!
-
+ADD ME ON DISCORD : 1amin
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aminmedfai) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AMIN_VAL) [![LeetCode](https://img.shields.io/badge/LeetCode-%237289DA.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/amln/)
